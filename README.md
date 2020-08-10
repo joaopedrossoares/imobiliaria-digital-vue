@@ -38,8 +38,8 @@ REMS is a simple PHP script based on Laravel that helps you to manage small or m
 
 
 ### Install
-01. `git clone https://github.com/parvez-git/real-estate.git`
-02. `cd real-estate`
+01. `git clone imobiliaria-digital-vue`
+02. `cd folder`
 03. `composer install`
 04. `cp .env.example .env`
 05. `php artisan key:generate`
@@ -58,8 +58,3 @@ REMS is a simple PHP script based on Laravel that helps you to manage small or m
 03. 
     Email: `user@user.com` 
     Password: `123456`
-
-
-### Screenshot
-
-<img src="https://github.com/parvez-git/real-estate/blob/master/public/demo/home.jpg">
